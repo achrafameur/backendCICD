@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "test": "node index"
+    "test": "node tests/test.js"
   },
   "author": "Achraf Ameur",
   "license": "ISC",
