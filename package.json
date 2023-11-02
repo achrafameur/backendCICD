@@ -4,7 +4,8 @@
   "description": "API node/express",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "test": "node index"
   },
   "author": "Achraf Ameur",
   "license": "ISC",
